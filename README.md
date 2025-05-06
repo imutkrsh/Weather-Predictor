@@ -15,7 +15,6 @@ Important features of a weather prediction model using machine learning include 
 and the ability to handle and incorporate new data as it becomes available. Additionally, the model should be able to identify patterns and
 relationships in the data that may not be immediately obvious to human analysts, which can lead to more accurate and reliable weather predictions.
 
-![linkedin_des-89](https://github.com/Harsh-Patidar/ML/assets/110400713/a6bee25d-9014-4f5b-827f-488242504c8d)
 
 
 Predicting weather using machine learning in Python can be a complex task, as it involves dealing with vast amounts of data, including historical weather data, satellite images, and more. Here's a simplified outline of the steps you can follow to create a basic weather prediction model using Python and machine learning:
@@ -66,7 +65,6 @@ data = pd.read_csv('weather_data.csv')
 #### Preprocess data, select features, and split into train and test sets
 #### ...
 
-![Weather_prediction_img](https://github.com/Harsh-Patidar/ML/assets/110400713/8d79d83c-ccb0-4fa9-908e-b002d6b38222)
 
 #### Create and train a Linear Regression model
 model = LinearRegression()
